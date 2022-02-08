@@ -1,0 +1,16 @@
+.calculator {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.card-body {
+  width: 100%;
+  margin: auto;
+  height: auto !important;
+}
+
+.card {
+  width: 30%;
+  margin: auto;
+  height: auto !important;
+}
